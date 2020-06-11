@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bac5dd9-cd5b-4d6a-8bb8-c045c49f1d60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/架构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/组件独立运行.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -111,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591599611319</updated>
-      <workItem from="1591599613838" duration="64835000" />
+      <workItem from="1591599613838" duration="65724000" />
     </task>
     <servers />
   </component>
