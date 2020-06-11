@@ -1,0 +1,63 @@
+apply plugin: 'groovy'
+apply plugin: 'maven'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        //发布到远程maven的插件
+        classpath 'com.novoda:bintray-release:0.9.1'
+    }
+}
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+    compile "com.android.tools.build:gradle:4.0.0"
+}
+
+repositories {
+    google()
+    jcenter()
+}
+
+allprojects {
+    tasks.withType(Javadoc) {
+        options.addStringOption('Xdoclint:none', '-quiet')
+        options.addStringOption('encoding', 'UTF-8')
+    }
+}
+
+allprojects {
+    tasks.withType(Javadoc) {
+        options {
+            encoding "UTF-8"
+            charSet 'UTF-8'
+            links "http://docs.oracle.com/javase/7/docs/api"
+        }
+    }
+}
+
+
+apply plugin: 'maven'
+group = 'com.dixon.plugin'
+version = '1.0.0'
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: uri('/Users/dixon.xu/repo'))
+        }
+    }
+}
+
+//publish {
+//    userOrg = 'dixonxu'
+//    repoName = 'srouter'
+//    groupId = 'com.dixon.srouter'
+//    artifactId = 'simple_router_processor'
+//    publishVersion = '1.0.1'
+//    desc = 'router for small project'
+//    website = 'https://github.com/zhxyComing/SimpleRouter'
+//}

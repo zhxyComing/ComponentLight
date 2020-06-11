@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bac5dd9-cd5b-4d6a-8bb8-c045c49f1d60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ComponentLight" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ComponentLight" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d1jhKFjKXj0DuukhBZYxgnvIro" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ComponentLight [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ComponentLight [uploadArchives]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bac5dd9-cd5b-4d6a-8bb8-c045c49f1d60" name="Default Changelist" comment="" />
+      <created>1591599611319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591599611319</updated>
+      <workItem from="1591599613838" duration="60937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="223" key="#Inspections" timestamp="1591760719332">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="747" y="223" key="#Inspections/0.23.1792.1033@0.23.1792.1033" timestamp="1591760719332" />
+    <state x="691" y="225" key="#Project_Structure" timestamp="1591602323703">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="691" y="224" key="#Project_Structure/0.23.1792.1033@0.23.1792.1033" timestamp="1591599739420" />
+    <state x="691" y="225" key="#Project_Structure/0.23.1792.1036@0.23.1792.1036" timestamp="1591602323703" />
+    <state x="978" y="308" key="#com.intellij.ide.util.MemberChooser" timestamp="1591773010506">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="978" y="308" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1033@0.23.1792.1033" timestamp="1591773010506" />
+    <state x="978" y="308" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1034@0.23.1792.1034" timestamp="1591759379855" />
+    <state x="160" y="23" width="566" height="1033" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591759499440">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="160" y="23" width="566" height="1033" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1591759499440" />
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom" timestamp="1591776377417">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1591774365377" />
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1591776377417" />
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1591676018515" />
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1591616727622" />
+    <state width="1358" height="269" key="GridCell.Tab.0.center" timestamp="1591776377416">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1591774365377" />
+    <state width="1358" height="269" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1591776377416" />
+    <state width="1358" height="269" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1591676018514" />
+    <state width="1358" height="269" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1591616727622" />
+    <state width="1358" height="269" key="GridCell.Tab.0.left" timestamp="1591776377416">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1591774365376" />
+    <state width="1358" height="269" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1591776377416" />
+    <state width="1358" height="269" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1591676018514" />
+    <state width="1358" height="269" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1591616727621" />
+    <state width="1358" height="269" key="GridCell.Tab.0.right" timestamp="1591776377417">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1591774365377" />
+    <state width="1358" height="269" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1591776377417" />
+    <state width="1358" height="269" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1591676018515" />
+    <state width="1358" height="269" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1591616727622" />
+    <state x="1053" y="267" width="683" height="729" key="find.popup" timestamp="1591773729910">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="1053" y="267" width="683" height="729" key="find.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1591773729910" />
+    <state x="1053" y="267" width="683" height="729" key="find.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1591761099720" />
+    <state x="1107" y="371" width="670" height="676" key="search.everywhere.popup" timestamp="1591760337204">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state x="1107" y="371" width="670" height="675" key="search.everywhere.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1591697157367" />
+    <state x="1107" y="371" width="670" height="676" key="search.everywhere.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1591760337204" />
+    <state x="1107" y="372" width="670" height="676" key="search.everywhere.popup/0.23.1792.1036@0.23.1792.1036" timestamp="1591602128847" />
+  </component>
+</project>
