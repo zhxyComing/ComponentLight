@@ -1,0 +1,4 @@
+com.dixon.plugin.component.base
+com.dixon.plugin.component.bean
+com.dixon.plugin.component.control.deploy
+com.dixon.plugin.component.control.parse

@@ -1,5 +1,6 @@
 apply plugin: 'groovy'
 apply plugin: 'maven'
+apply plugin: 'com.novoda.bintray-release'//添加 bintray-release 配置
 
 buildscript {
     repositories {
@@ -52,12 +53,12 @@ uploadArchives {
     }
 }
 
-//publish {
-//    userOrg = 'dixonxu'
-//    repoName = 'srouter'
-//    groupId = 'com.dixon.srouter'
-//    artifactId = 'simple_router_processor'
-//    publishVersion = '1.0.1'
-//    desc = 'router for small project'
-//    website = 'https://github.com/zhxyComing/SimpleRouter'
-//}
+publish {
+    userOrg = 'dixonxu'
+    repoName = 'component'
+    groupId = 'com.dixon.plugin'
+    artifactId = 'component_light'
+    publishVersion = '1.0.0'
+    desc = 'component for small project'
+    website = 'https://github.com/zhxyComing/ComponentLight'
+}
